@@ -1,0 +1,14 @@
+#*
+!\.gitignore
+Addon\.ini
+addons
+data
+\.git
+gpconfig\.php
+gpl\.txt
+include
+index\.php
+READMETYPESETTER\.md
+robots\.txt
+themes
+web\.config
